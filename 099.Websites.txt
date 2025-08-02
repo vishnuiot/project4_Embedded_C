@@ -7,3 +7,7 @@ https://www.youtube.com/watch?v=mOGqNwTjEGM
 
 RTOS lectures
 https://www.youtube.com/watch?v=hS9tx46rJxU&list=PLjNwHskgckKXN4QUSXI8VPMNeCdGmJTqc&index=8
+
+
+Keilmvision
+https://www.youtube.com/@WeeWStack/playlists
