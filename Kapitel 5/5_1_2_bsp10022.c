@@ -8,7 +8,6 @@ int main()
         for (k=1;k<10;k++)
         {
             multiply=i*k;
-            printf("%f x %f = %f \n",i,k,multiply);
         }
     }
 }
