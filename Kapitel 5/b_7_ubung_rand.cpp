@@ -9,7 +9,7 @@ void summe(const int &erstezahl, const int &zweitezahl);
 int main()
 {
    cout << "Programm zur Addition von zwei zufälligen Zahlen" << endl;
-   srand(time(0));
+   srand(time(NULL));
    int erstezahl, zweitezahl;
    erstezahl = rand() % 100;
    zweitezahl = rand() % 100;
