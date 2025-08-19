@@ -9,3 +9,6 @@ youtube tutorial
 
 https://www.youtube.com/watch?v=kC7E0UkuQ6Y&list=PLJhTWoCm8I6D856kBQGXKZelTexCDHQa_&index=9
 https://www.youtube.com/@cshero365/playlists
+
+Variadic Template function:
+https://www.youtube.com/watch?v=eNgPSfKON-g&t=203s

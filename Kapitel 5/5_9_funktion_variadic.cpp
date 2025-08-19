@@ -19,6 +19,6 @@ void addieren(const int &anzahl, ...)
 int main()
 {
     addieren(3,1.1,2.2,3.3);
-    addieren(2,1.1,2.2);
+    addieren(2,1.1,7);
     return 0;   
 }
