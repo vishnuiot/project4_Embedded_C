@@ -10,5 +10,6 @@ int main()
     // Now, call the lambda that is stored in x.
     x();
     x();
+    x();
     return 0;
 }
