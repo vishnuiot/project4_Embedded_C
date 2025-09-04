@@ -16,3 +16,5 @@ https://www.youtube.com/@WeeWStack/playlists
 
 STM32 tutorials
 https://www.youtube.com/@BINARYUPDATES/playlists
+GPIO_Buttoninput
+https://www.youtube.com/watch?v=53A_7XBlvsQ
